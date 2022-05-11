@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "17eeb46e-9381-483f-91d3-0fc5168e89ad",
+      "username": "JamieC",
+      "password": "abc123",
+      "firstName": "Jamie",
+      "lastName": "C",
+      "emailAddress": "test@test.test",
+      "albums": [
+        {
+          "id": "1",
+          "band": "Black Sabbath",
+          "albumTitle": "Kittens For Everyone",
+          "albumYear": "2022"
+        }
+      ]
+    },
+    {
+      "id": "d6b65e42-190f-4996-9b26-a803ccdc49ff",
+      "username": "BobS",
+      "password": "S",
+      "firstName": "Bob",
+      "lastName": "S",
+      "emailAddress": "skjcbnskdjc@ksbdc.shcbsd",
+      "albums": [
+        {
+          "id": "2",
+          "band": "Spice Girls",
+          "albumTitle": "Spiceworld",
+          "albumYear": "1997"
+        }
+      ]
+    }
+  ]
+}
